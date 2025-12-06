@@ -1,1 +1,2 @@
 erste Zeile von b .txt
+zweite Zeile in b.txt
