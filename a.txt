@@ -1,1 +1,2 @@
 Ich bin die erste Zeile von a.txt
+ich bin die zweite zeile
